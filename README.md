@@ -34,3 +34,7 @@ Proyecto de análisis de datos de ventas, usando conexión directa a MySQL con P
 ├── 📁 imagenes # Captura del dashboard para README
 └── 📁 venv # Entorno virtual de Python
 
+## 📸 Vista previa del Dashboard
+
+![Dashboard Power BI](imagenes/dashboard.png)
+
