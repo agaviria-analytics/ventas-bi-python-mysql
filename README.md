@@ -24,3 +24,13 @@ Proyecto de análisis de datos de ventas, usando conexión directa a MySQL con P
 
 ## 📁 Estructura del Proyecto
 
+📂 PYTHON + MySQL + Excel
+│
+├── conexion_mysql.py # Script principal: conexión, consulta y exportación
+├── paquetes.txt # Paquetes del entorno virtual
+├── README.md # Documentación del proyecto
+├── ventas_bi.pbix # Archivo Power BI con el dashboard
+├── ventas_combinadas.xlsx # Archivo exportado con datos combinados (JOIN)
+├── 📁 imagenes # Captura del dashboard para README
+└── 📁 venv # Entorno virtual de Python
+
